@@ -1,0 +1,1 @@
+This repository was made during the Elm workshop at one of the Faculty of Mathematics and Physics workshops. It contains a very simple (and useless) web application made with Elm.

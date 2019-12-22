@@ -16,6 +16,7 @@
 		var app = Elm.App.init(
 			{node: document.getElementById("main-app")}
 		);
+		app.ports.sendAlert.subscribe(function(msg){alert(msg)});
 	</script>
 </body>
 </html>
